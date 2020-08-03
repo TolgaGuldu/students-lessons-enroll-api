@@ -1,0 +1,50 @@
+Lessons
+
+TUR-Türkçe
+MAT-Matematik
+GEO-Geometri
+TAR-Tarih
+
+enroll to lesson
+
+[
+  {
+    "studentId": 1,
+    "studentName": "tolga",
+    "studentSurName": "güldütuna",
+    "studentsAge": "29",
+    "studentzEnterSystemDate": "2020-08-03"
+  },
+  {
+    "studentId": 2,
+    "studentName": "burak",
+    "studentSurName": "mermer",
+    "studentsAge": "29",
+    "studentzEnterSystemDate": "2020-08-03"
+  },
+  {
+    "studentId": 3,
+    "studentName": "ahmet",
+    "studentSurName": "güldütuna",
+    "studentsAge": "29",
+    "studentzEnterSystemDate": "2020-08-03"
+  },
+  {
+    "studentId": 4,
+    "studentName": "ayşe",
+    "studentSurName": "mermer",
+    "studentsAge": "29",
+    "studentzEnterSystemDate": "2020-08-03"
+  }
+]
+
+
+add student
+
+{
+  "studentId": 1,
+  "studentName": "tolga",
+  "studentSurName": "güldütuna",
+  "studentsAge": "29",
+  "studentzEnterSystemDate": "2020-08-03"
+}
